@@ -7,7 +7,7 @@ This project includes:
 - CAD files to 3D print bracket and carburetor adapter
 
 
-[![Alt text](https://i.ytimg.com/vi/Tu0BFD9ouBQ/hqdefault.jpg/maxresdefault.jpg)](https://youtu.be/Tu0BFD9ouBQ)
+[![Alt text](https://i.ytimg.com/vi/Tu0BFD9ouBQ/hqdefault.jpg)](https://youtu.be/Tu0BFD9ouBQ)
 
 Overview: [Video](https://youtu.be/Tu0BFD9ouBQ)
 
