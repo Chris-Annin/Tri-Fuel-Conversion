@@ -11,7 +11,5 @@ This project includes:
 
 Overview: [Video](https://youtu.be/Tu0BFD9ouBQ)
 
-Questions: chris.annin@gmail.com
-#
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
+
 
